@@ -1,0 +1,11 @@
+Feature,Importance Score
+active_power_rolling_mean_60,0.015898832456216556
+active_power_lag_5,0.012039543550027296
+active_power_rolling_min_60,0.011020866820906979
+active_power_rolling_mean_15,0.00981819199580923
+Global_active_power,0.0093641314152165
+active_power_lag_1,0.00867219544016361
+active_power_rolling_min_15,0.00845081713377438
+active_power_rolling_max_60,0.008216100909305187
+Global_intensity,0.0078453198365762
+active_power_lag_60,0.007151602844674455
